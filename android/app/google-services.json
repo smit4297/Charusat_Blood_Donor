@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171119550550",
+    "firebase_url": "https://charusatblooddonor.firebaseio.com",
+    "project_id": "charusatblooddonor",
+    "storage_bucket": "charusatblooddonor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171119550550:android:8d4150f8a5850e8e2ddbf7",
+        "android_client_info": {
+          "package_name": "com.example.charusat_blood_donor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171119550550-6aa1q573f4vos8r8212nut5kveu1iij7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charusat_blood_donor",
+            "certificate_hash": "72f3698592121d5eb9799101ec38e78af20a4d2f"
+          }
+        },
+        {
+          "client_id": "171119550550-tr3m2b375m1mo0rf1l6gl9ou7ljhdcld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcGWqoejlIJeYz0-QjckGQhs2pycQD3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171119550550-tr3m2b375m1mo0rf1l6gl9ou7ljhdcld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
